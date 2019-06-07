@@ -19,7 +19,7 @@
       <br>
 
     <div class="container">
-    <h2>Cat√°logo</h2>
+    <h2>Cat·logo</h2>
     <br>
 	
 	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">

@@ -15,10 +15,10 @@
   <table class="table">
 		<thead class="container-fluid">
 			<tr>
-			<td align="center"><a href="index.php" target="_BLANK"><img src="images/login.png" class="rounded-circle" alt="admin" width="200">
+			<td align="center"><a href="lista_admin.php"><img src="images/login.png" class="rounded-circle" alt="admin" width="280">
 			</td></tr>
 			<tr>
-			<td align="center"><a href="index.php" target="_BLANK"><img src="images/slides.png" class="rounded-circle" alt="slide" width="200">
+			<td align="center"><a href="index.php"><img src="images/slides.png" class="rounded-circle" alt="slide" width="190">
 			</td></tr>
 		</thead>
 	</table>	
